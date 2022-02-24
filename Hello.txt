@@ -3,3 +3,4 @@ Hello word!
 Hello word!
 Hello word!
 Git测试文件
+Git测试文件2
